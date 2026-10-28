@@ -1,0 +1,252 @@
+<!--{"title":"Make a complaint","path":"/complaint/","nav":"complain","description":"Write your own planning enforcement complaint about The Plough to West Suffolk Council. It takes about 10 minutes.","scripts":["/js/templates.js","/js/complaint.js"]}-->
+    <div class="page-body">
+      <div class="wrap">
+        <div id="complaint-app" class="prose-wide">
+
+          <!-- Start page -->
+          <section data-step="start">
+            <h1>Make a complaint to West Suffolk Council</h1>
+            <p class="lead">Use this form to write a planning enforcement complaint about The Plough, in your own name.</p>
+            <p>We give you draft wording to start from. You then change it so that it says what you know and how you are affected. A complaint in your own words carries more weight than one that matches everyone else's.</p>
+            <p>It takes about 10 minutes.</p>
+            <h2>What you need</h2>
+            <ul>
+              <li>your address, email address and phone number</li>
+              <li>any dates, notes or photos of things you have seen or heard yourself (if you have them)</li>
+            </ul>
+            <h2>What happens next</h2>
+            <p>We enter your complaint on the council's online planning enforcement form, using your details. Each complaint says it was prepared with help from this website. The council will then contact you directly.</p>
+            <p>The council normally keeps the names of people who complain confidential. Read our <a href="/privacy/">privacy notice</a> to see how we look after your details.</p>
+            <div class="notice">
+              <p><strong>Review copy:</strong> this version of the form does not send anything.</p>
+            </div>
+            <noscript>
+              <div class="notice"><p>This form needs JavaScript. You can complain directly on <a href="https://westsuffolk-self.achieveservice.com/service/Planning_Enforcement_Complaint_or_Enquiry">West Suffolk Council's planning enforcement form</a> instead.</p></div>
+            </noscript>
+            <div class="button-row js-only">
+              <button class="button" type="button" data-next="name">Start now</button>
+            </div>
+            <h2>Other ways to complain</h2>
+            <p>You can use <a href="https://westsuffolk-self.achieveservice.com/service/Planning_Enforcement_Complaint_or_Enquiry">West Suffolk Council's own planning enforcement form</a>. Mention The Plough, Brockley Green, Hundon CO10 8DT, and case reference EN/26/0160.</p>
+          </section>
+
+          <form id="complaint-form" novalidate hidden>
+            <div class="error-summary" role="alert" tabindex="-1" hidden>
+              <h2>There is a problem</h2>
+              <ul></ul>
+            </div>
+
+            <!-- Step: name -->
+            <section data-step="name" hidden>
+              <a class="back-link" href="#" data-back>Back</a>
+              <p class="step-count">Question 1 of 6</p>
+              <h1 class="label-page">What is your name?</h1>
+              <div class="form-group" data-field="firstName">
+                <label class="label" for="firstName">First name</label>
+                <p class="error-message" hidden></p>
+                <input type="text" id="firstName" name="firstName" autocomplete="given-name" spellcheck="false">
+              </div>
+              <div class="form-group" data-field="lastName">
+                <label class="label" for="lastName">Last name</label>
+                <p class="error-message" hidden></p>
+                <input type="text" id="lastName" name="lastName" autocomplete="family-name" spellcheck="false">
+              </div>
+              <button class="button" type="button" data-next="address">Continue</button>
+            </section>
+
+            <!-- Step: address -->
+            <section data-step="address" hidden>
+              <a class="back-link" href="#" data-back>Back</a>
+              <p class="step-count">Question 2 of 6</p>
+              <h1 class="label-page">What is your address?</h1>
+              <p class="hint">The council will not look into a complaint without a name and address.</p>
+              <div class="form-group" data-field="address1">
+                <label class="label" for="address1">House name or number and street</label>
+                <p class="error-message" hidden></p>
+                <input type="text" id="address1" name="address1" autocomplete="address-line1">
+              </div>
+              <div class="form-group" data-field="address2">
+                <label class="label" for="address2">Village (optional)</label>
+                <input type="text" id="address2" name="address2" autocomplete="address-line2">
+              </div>
+              <div class="form-group" data-field="town">
+                <label class="label" for="town">Town</label>
+                <p class="error-message" hidden></p>
+                <input type="text" id="town" name="town" autocomplete="address-level2" class="input-short" style="max-width:20rem">
+              </div>
+              <div class="form-group" data-field="postcode">
+                <label class="label" for="postcode">Postcode</label>
+                <p class="error-message" hidden></p>
+                <input type="text" id="postcode" name="postcode" autocomplete="postal-code" class="input-short" spellcheck="false">
+              </div>
+              <button class="button" type="button" data-next="contact">Continue</button>
+            </section>
+
+            <!-- Step: contact -->
+            <section data-step="contact" hidden>
+              <a class="back-link" href="#" data-back>Back</a>
+              <p class="step-count">Question 3 of 6</p>
+              <h1 class="label-page">How can the council contact you?</h1>
+              <p class="hint">The council uses these only to follow up your complaint</p>
+              <div class="form-group" data-field="email">
+                <label class="label" for="email">Email address</label>
+                <p class="error-message" hidden></p>
+                <input type="email" id="email" name="email" autocomplete="email" spellcheck="false">
+              </div>
+              <div class="form-group" data-field="phone">
+                <label class="label" for="phone">Phone number</label>
+                <p class="error-message" hidden></p>
+                <input type="tel" id="phone" name="phone" autocomplete="tel" style="max-width:20rem">
+              </div>
+              <button class="button" type="button" data-next="connection">Continue</button>
+            </section>
+
+            <!-- Step: connection -->
+            <section data-step="connection" hidden>
+              <a class="back-link" href="#" data-back>Back</a>
+              <p class="step-count">Question 4 of 6</p>
+              <div class="form-group" data-field="connection">
+                <fieldset aria-describedby="connection-hint">
+                  <legend><h1 class="label-page">How does what is happening at The Plough affect you?</h1></legend>
+                  <p class="hint" id="connection-hint">Select all that apply</p>
+                  <p class="error-message" hidden></p>
+                  <div class="choices">
+                    <div class="choice-item"><input type="checkbox" id="c-near" name="connection" value="near"><label for="c-near">I live nearby</label></div>
+                    <div class="choice-item"><input type="checkbox" id="c-road" name="connection" value="road"><label for="c-road">I drive, walk or cycle on Hundon Road or the lanes nearby</label></div>
+                    <div class="choice-item"><input type="checkbox" id="c-pub" name="connection" value="pub"><label for="c-pub">I used The Plough when it was a pub</label></div>
+                    <div class="choice-item"><input type="checkbox" id="c-loss" name="connection" value="loss"><label for="c-loss">I am worried about losing the village pub</label></div>
+                    <div class="choice-item"><input type="checkbox" id="c-other" name="connection" value="other"><label for="c-other">Something else</label></div>
+                  </div>
+                </fieldset>
+              </div>
+              <button class="button" type="button" data-next="seen">Continue</button>
+            </section>
+
+            <!-- Step: seen -->
+            <section data-step="seen" hidden>
+              <a class="back-link" href="#" data-back>Back</a>
+              <p class="step-count">Question 5 of 6</p>
+              <div class="form-group" data-field="seen">
+                <h1 class="label-page"><label for="seen">What have you seen or heard yourself? (optional)</label></h1>
+                <p class="hint" id="seen-hint">For example, the date of an event, cars on the verge, coaches, or noise late at night. Only include things you saw or heard yourself.</p>
+                <p class="error-message" hidden></p>
+                <textarea id="seen" name="seen" class="tall" aria-describedby="seen-hint"></textarea>
+              </div>
+              <button class="button" type="button" data-next="spoken">Continue</button>
+            </section>
+
+            <!-- Step: spoken -->
+            <section data-step="spoken" hidden>
+              <a class="back-link" href="#" data-back>Back</a>
+              <p class="step-count">Question 6 of 6</p>
+              <div class="form-group" data-field="spoken">
+                <fieldset>
+                  <legend><h1 class="label-page">Have you spoken to the owners about this yourself?</h1></legend>
+                  <p class="error-message" hidden></p>
+                  <div class="choices">
+                    <div class="choice-item"><input type="radio" id="s-yes" name="spoken" value="yes" aria-controls="spoken-detail"><label for="s-yes">Yes</label></div>
+                    <div class="conditional" id="spoken-detail" hidden>
+                      <div class="form-group" data-field="spokenDetail">
+                        <label class="label" for="spokenDetail">What was said, and when?</label>
+                        <p class="hint" id="spokenDetail-hint">Only include what you heard yourself</p>
+                        <p class="error-message" hidden></p>
+                        <textarea id="spokenDetail" name="spokenDetail" aria-describedby="spokenDetail-hint"></textarea>
+                      </div>
+                    </div>
+                    <div class="choice-item"><input type="radio" id="s-no" name="spoken" value="no"><label for="s-no">No</label></div>
+                  </div>
+                </fieldset>
+              </div>
+              <button class="button" type="button" data-next="draft">Continue</button>
+            </section>
+
+            <!-- Step: draft -->
+            <section data-step="draft" hidden>
+              <a class="back-link" href="#" data-back>Back</a>
+              <h1>Your draft complaint</h1>
+              <p class="lead">We have started your complaint for you. Read every part. Change anything that is not right for you, and delete anything you do not know to be true.</p>
+              <p>Wherever you see text in [square brackets], replace it with your own words or delete it. The headings match the questions on the council's form.</p>
+              <div class="draft-section form-group" data-field="describe">
+                <label class="label" for="describe">Describe the change of use, and why you think it needs planning permission</label>
+                <p class="error-message" hidden></p>
+                <textarea id="describe" name="describe" class="tall"></textarea>
+              </div>
+              <div class="draft-section form-group" data-field="harm">
+                <label class="label" for="harm">What harm is being caused to you or to the environment?</label>
+                <p class="error-message" hidden></p>
+                <textarea id="harm" name="harm" class="tall"></textarea>
+              </div>
+              <div class="draft-section form-group" data-field="resolve">
+                <label class="label" for="resolve">Have you tried to resolve the matter yourself?</label>
+                <p class="error-message" hidden></p>
+                <textarea id="resolve" name="resolve"></textarea>
+              </div>
+              <div class="draft-section form-group" data-field="healthSafety">
+                <label class="label" for="healthSafety">If an officer visits the site, are there any health and safety concerns they should know about?</label>
+                <p class="error-message" hidden></p>
+                <textarea id="healthSafety" name="healthSafety"></textarea>
+              </div>
+              <div class="draft-section form-group" data-field="why">
+                <label class="label" for="why">Why are you making this complaint?</label>
+                <p class="error-message" hidden></p>
+                <textarea id="why" name="why" class="tall"></textarea>
+              </div>
+              <div class="draft-section form-group" data-field="details">
+                <label class="label" for="details">Details that may help an initial assessment</label>
+                <p class="error-message" hidden></p>
+                <textarea id="details" name="details" class="tall"></textarea>
+              </div>
+              <button class="button" type="button" data-next="check">Continue</button>
+            </section>
+
+            <!-- Step: check -->
+            <section data-step="check" hidden>
+              <a class="back-link" href="#" data-back>Back</a>
+              <h1>Check your complaint before you send it</h1>
+              <h2>Your details</h2>
+              <dl class="summary-list" id="summary-you"></dl>
+              <h2>About The Plough</h2>
+              <p class="hint">We fill these in for you from the public record</p>
+              <dl class="summary-list">
+                <div><dt>Address of the site</dt><dd>The Plough, Brockley Green, Hundon, Sudbury, Suffolk CO10 8DT</dd><dd class="actions"></dd></div>
+                <div><dt>Owner of the land</dt><dd>The owners of The Plough. We add their names and address from the public record when we enter your complaint.</dd><dd class="actions"></dd></div>
+                <div><dt>Nature of the complaint</dt><dd>Change of use of land or buildings</dd><dd class="actions"></dd></div>
+                <div><dt>Date when activities began</dt><dd>27 June 2026: a wedding reception was held at the premises. The owners market the venue for weddings and private events.</dd><dd class="actions"></dd></div>
+                <div><dt>Council case reference</dt><dd>EN/26/0160</dd><dd class="actions"></dd></div>
+              </dl>
+              <h2>Your complaint</h2>
+              <dl class="summary-list" id="summary-complaint"></dl>
+              <p>Your complaint will end with this line: "Prepared with help from the Save the Hundon Plough campaign website."</p>
+
+              <div class="form-group" data-field="declaration">
+                <fieldset>
+                  <legend class="label">Declaration</legend>
+                  <p class="error-message" hidden></p>
+                  <div class="choice-item"><input type="checkbox" id="declaration" name="declaration" value="yes"><label for="declaration">I have read my complaint. It is true to the best of my knowledge, and I understand it will go to West Suffolk Council in my name.</label></div>
+                </fieldset>
+              </div>
+              <div class="form-group" data-field="updates">
+                <fieldset>
+                  <legend class="label">Campaign updates (optional)</legend>
+                  <div class="choice-item"><input type="checkbox" id="updates" name="updates" value="yes"><label for="updates">Email me occasional updates about the campaign. I can stop them at any time.</label></div>
+                </fieldset>
+              </div>
+              <button class="button" type="submit">Send complaint</button>
+            </section>
+          </form>
+
+          <!-- Done -->
+          <section data-step="done" hidden tabindex="-1">
+            <div class="panel">
+              <h1>Review copy: nothing was sent</h1>
+              <p>In the live version, this page will say: Complaint received.</p>
+            </div>
+            <h2>What happens next</h2>
+            <p>We will enter your complaint on West Suffolk Council's planning enforcement form, using your details. The council will contact you directly about it.</p>
+            <p>If you see something new at The Plough, you can <a href="/keep-a-record/">keep a record of it</a>, or write to the council quoting case reference EN/26/0160.</p>
+            <h2>Help spread the word</h2>
+            <p>Tell your neighbours about savetheplough.com. Each complaint should be in that person's own words and about how it affects them.</p>
+          </section>
+        </div>
+      </div>
+    </div>

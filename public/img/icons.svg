@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="plough" viewBox="0 0 64 40">
+    <g fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M4 5 L25 27"/>
+      <path d="M11 3 L30 25"/>
+      <path d="M2 7 L8 3"/>
+      <path d="M23 26 L50 19"/>
+      <path d="M25 28 C30 34, 38 36, 44 33 L36 29 Z"/>
+      <path d="M40 21 L38 31"/>
+      <circle cx="54" cy="25" r="7"/>
+      <path d="M54 18 V32 M47 25 H61"/>
+    </g>
+  </symbol>
+  <symbol id="pin" viewBox="0 0 24 24">
+    <path d="M12 2a7 7 0 0 0-7 7c0 5.2 7 13 7 13s7-7.8 7-13a7 7 0 0 0-7-7zm0 9.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5z" fill="currentColor"/>
+  </symbol>
+</svg>
