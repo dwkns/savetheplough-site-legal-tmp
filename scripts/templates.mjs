@@ -21,6 +21,8 @@ export function buildTemplates(root) {
     const label = parts[i + 1].trim();
     const body = parts[i + 2];
     const t = { id, label };
+    const forLine = body.match(/^\*\*For:\*\*\s*(.+)$/m);
+    t.for = forLine ? forLine[1].split(",").map((x) => x.trim()) : ["any"];
     const sections = body.split(/^### (.+)$/m);
     for (let j = 1; j < sections.length; j += 2) {
       const heading = sections[j].trim();

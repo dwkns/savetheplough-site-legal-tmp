@@ -146,10 +146,18 @@
     $(f[0]).addEventListener("input", function (e) { edited[f[0]] = true; grow(e.target); });
   });
 
+  // Choose a template that suits how the resident says they are affected.
   function pickTemplate() {
     var list = window.COMPLAINT_TEMPLATES || [];
     if (!list.length) return null;
-    return list[Math.floor(Math.random() * list.length)];
+    var chosen = Array.prototype.map.call(form.querySelectorAll('input[name="connection"]:checked'), function (c) { return c.value; });
+    var pool = list.filter(function (t) {
+      var tags = t["for"] || ["any"];
+      if (tags.indexOf("any") !== -1) return true;
+      return chosen.some(function (c) { return tags.indexOf(c) !== -1; });
+    });
+    if (!pool.length) pool = list;
+    return pool[Math.floor(Math.random() * pool.length)];
   }
 
   function prefillDraft() {

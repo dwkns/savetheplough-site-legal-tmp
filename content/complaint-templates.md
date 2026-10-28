@@ -1,44 +1,53 @@
 # Complaint templates for review
 
-Thirty draft complaints for the Save the Hundon Plough complaint form. Written 28 October 2026.
+Thirty draft complaints for the Save the Hundon Plough complaint form. Written 28 October 2026, revised after an independent legal and writing review the same day.
 
-The website gives each resident one of these as a starting point. They change it before it goes anywhere. Each template takes a different angle and a different voice, so that no two residents start from the same words.
+The website gives each resident one of these as a starting point, and they change it before it goes anywhere. Each template takes a different angle and a different voice, so no two residents start from the same words.
+
+Treat these as published material. The website sends all 30 to every visitor's browser, so anyone can read them.
 
 ## How the form uses them
 
 - The resident answers questions about themselves first: who they are, how they are affected, what they have seen, and whether they have spoken to the owners.
+- The form picks a template that matches how they say they are affected. The "For" line under each template lists the answers it suits. "any" means it suits everyone.
 - If they have seen something themselves, the form puts their own words at the top of the harm answer.
-- If they have spoken to the owners, their own account replaces the "Have you tried to resolve the matter yourself?" answer below. The text below is only for people who answer "No".
+- If they have spoken to the owners, their own account replaces the "Have you tried to resolve the matter yourself?" answer. The text below is only for people who answer "No".
 - Text in [square brackets] is a prompt. The form will not let the resident continue until they replace it with their own words or delete it.
 - Every complaint ends with: "Prepared with help from the Save the Hundon Plough campaign website."
-- The form fills in the fixed fields itself: the site address, the owners (Darrell adds names and address from the public record when he files it), "Change of use of land or buildings", and the date when activities began (27 June 2026).
-- The headings below match the council's form, including the change-of-use description box that the old templates did not fill.
+- The form fills in the fixed fields itself:
+  - the site address;
+  - the owners (Darrell adds their names and address from the public record when he files it);
+  - "Change of use of land or buildings";
+  - the date when activities began: "Not known exactly. The pub closed in October 2024. The owners announced new plans on 15 September 2025, held a Winter Wonderland in December 2025 and hosted a wedding reception on 27 June 2026."
 
 ## Rules every template follows
 
-- Facts are things we can show: the owners' own posts, website and brochure, the council's planning and licensing registers, the Asset of Community Value listing, and national and local policy.
-- Things only some residents saw, such as the 27 June wedding, are reported as what neighbours saw, not as the complainant's own evidence.
-- Opinions are marked as opinions ("I think", "in my view", "I believe").
-- Nothing about the owners' character, honesty or motives. Nothing about Temporary Event Notices or licensing offences.
-- Nobody is named. The council's form has its own box for the owners.
-- No claim that anything is unlawful. The council decides that.
-- The planning policies are National Planning Policy Framework (August 2026) policy HC6 and West Suffolk Local Plan (July 2025) Policy LP19, "Community facilities and services". The old templates cited "LP31". In the adopted plan, LP31 is the policy on public realm improvements, so do not reuse that reference.
+- **Facts are things we can show:** the owners' own posts, website and brochure; the council's planning and licensing registers; the Asset of Community Value listing; and national and local policy.
+- **Things only some people saw** are reported as what someone saw, not as the resident's own evidence. This covers the 27 June wedding, seen by the campaign organiser, and the "by the book" remarks, heard by the organiser and two others.
+- **Anything that is about the resident** ("I drive this road", "I used the pub") is a prompt in brackets, not a statement.
+- **Opinions are marked as opinions** ("I think", "in my view", "I believe").
+- **Nothing about the owners' character, honesty, intentions or motives.** Nothing about Temporary Event Notices or licensing offences.
+- **Nobody is named.** The council's form has its own box for the owners.
+- **No claim that anything is unlawful.** The council decides.
+- **Nothing that explains exceptions or ways round the rules.** That covers temporary uses, how often an event can be held, alternative provision and time limits.
+- **The policies are National Planning Policy Framework (August 2026) policy HC6 and West Suffolk Local Plan (July 2025) Policy LP19.** The old templates cited "LP31". In the adopted plan, LP31 is the policy on public realm improvements, so do not reuse that reference.
 
 ## Facts the templates rely on
 
 | Fact | Source |
 |---|---|
 | The Plough closed as a pub in October 2024 | Suffolk News, 28 September 2025 |
-| Owners' post: "no longer be managed as a public house or restaurant", with plans for milestone events, birthday celebrations, weddings, holiday lets and seasonal public events | Owners' Facebook post, 15 September 2025 |
+| "no longer be managed as a public house or restaurant", with plans for milestone events, birthday celebrations, weddings, holiday lets and seasonal public events | Owners' Facebook post, 15 September 2025 |
+| "After a complete refit" | The Plough Country Lodge Facebook, 2 October 2026 |
 | Ground floor for hire for "weddings, christenings, milestone celebrations" | The Plough Country Lodge Facebook, 6 August 2026 |
-| Exclusive use of the whole site for 10 to 24 guests; hen and stag groups accepted; "large vehicles including coaches"; extras including bouncy castles, assault course, archery, karaoke, It's a Knock Out; prices to December 2028 | Owners' brochure, April 2027 to December 2028 |
-| Coffee lounge and bar from 1 December 2026, Tuesday to Thursday and Sunday 10:30am to 5pm; closed Mondays; Fridays and Saturdays closed for private events; restaurant will not reopen | Owners' Facebook and website, October 2026 |
+| Self-catering accommodation; exclusive use of the whole site for 10 to 24 guests; hen and stag groups accepted; "large vehicles including coaches"; extras including bouncy castles, assault course, archery, karaoke, It's a Knock Out; extra guests with celebration packages; prices to December 2028 | Owners' brochure, April 2027 to December 2028 |
+| Coffee lounge and bar from 1 December 2026: Tuesday to Thursday and Sunday 10:30am to 5pm; closed Mondays; "Friday and Saturday Closed for private events"; "the restaurant will not be reopening" | Owners' Facebook and website, October 2026 |
 | Winter Wonderland in December 2025; Skate and Bounce planned for 8 to 31 December 2026 | Owners' posters and Facebook |
-| Wedding reception on 27 June 2026; car park full, cars on the entrance and verge, a neighbour's access blocked | Residents who saw it, with photos |
+| Wedding reception on 27 June 2026: car park full, cars on the entrance and verge, a neighbour's access blocked | The campaign organiser, who saw and photographed it |
 | No planning application for the site since 1996 | West Suffolk planning register, checked 28 October 2026 |
 | Premises licence allows alcohol sales until midnight Sunday to Thursday and 1am Friday and Saturday | West Suffolk licence register, PL06372 |
-| 2014 refusal of a wedding marquee at Hundon Grange, about 0.7 miles along the same road; County Highway Authority cited "substandard visibility" | Planning register, DC/14/0144/FUL |
-| Suffolk Retreats at Hundon Grange uses the same phone numbers and markets weddings, hen and stag groups | Suffolk Retreats website |
+| 2014 refusal of a wedding marquee at Hundon Grange, about 0.7 miles along the same road, decided by St Edmundsbury Borough Council; the County Highway Authority cited "substandard visibility" | Planning register, DC/14/0144/FUL |
+| Suffolk Retreats at Hundon Grange gives the same phone numbers and markets weddings, hen and stag groups | Suffolk Retreats website |
 | Asset of Community Value, 22 July 2026 to 21 July 2031 | West Suffolk Council |
 | No footway, no street lights, no bus; nearest pubs about 1.7 miles (Kedington) and 1.9 miles (Hundon) by road | Residents; road distances measured from CO10 8DT |
 | Council enforcement case EN/26/0160 | Council correspondence |
@@ -47,33 +56,37 @@ The website gives each resident one of these as a starting point. They change it
 
 ## Template 1: The bend
 
+**For:** road, near
+
 ### Describe the change of use, and why you think it needs planning permission
 
-The Plough was a village pub until October 2024. It is now marketed as an exclusive-hire venue for parties and weddings, with self-catering rooms for up to 24 guests. I think that is a material change of use. The council's planning register shows no application for it.
+The Plough was a village pub until October 2024. It is now marketed as an exclusive-hire venue for parties and weddings, with self-catering accommodation for up to 24 guests. I think that is a material change of use. The council's planning register shows no application for it.
 
 ### Have you tried to resolve the matter yourself?
 
-No. I understand that residents who met one of the owners were told it would all be done by the book. No planning application has followed, so I am asking the council to look at it.
+No. I would rather the council looked at it.
 
 ### What harm is being caused to you or to the environment?
 
-My main worry is the road. The Plough's car park opens straight onto a double blind bend on Hundon Road. You cannot see what is coming from either side until it is nearly on you. A pub's customers come and go through the day. A wedding or a party brings dozens of cars in at the start and sends them all out together at the end, often in the dark.
+My main worry is the road. The Plough's car park opens straight onto a double blind bend on Hundon Road, and you cannot see what is coming from either side until it is nearly on you. A pub's customers come and go through the day. A wedding or a party brings dozens of cars in at the start and sends them out together at the end.
 
 [Say how you use this stretch of road, for example driving to work, walking the dog or cycling.]
 
 ### If an officer visits the site, are there any health and safety concerns they should know about?
 
-Nothing on the site that I know of. Please take care pulling in and out of the entrance. It is on a double blind bend.
+[Write "None known", or describe any hazard you know of.] Please take care pulling in and out of the entrance.
 
 ### Why are you making this complaint?
 
-Because nobody has looked at whether this road can take event traffic. A planning application would have made the highway authority look at the access, the parking and the numbers. That has not happened. I would like the council to investigate and to ask the owners to apply.
+Nobody has looked at whether this road can take event traffic. A planning application would have made the highway authority look at the access, the parking and the numbers. I would like the council to investigate and ask the owners to apply.
 
 ### Details that may help an initial assessment
 
-The owners' brochure for April 2027 to December 2028 offers exclusive use of the whole site to groups of 10 to 24, and says the site can take "large vehicles including coaches". A wedding reception was held on 27 June 2026. Neighbours saw the car park fill, cars parked along the entrance and on the verge, and a neighbour's access blocked.
+The owners' brochure for April 2027 to December 2028 offers exclusive use of the whole site to groups of 10 to 24, and says the site can take "large vehicles including coaches". At a wedding reception on 27 June 2026, the car park filled, cars were parked along the entrance and on the verge, and a neighbour's access was blocked.
 
 ## Template 2: Losing the pub
+
+**For:** pub, loss
 
 ### Describe the change of use, and why you think it needs planning permission
 
@@ -81,27 +94,29 @@ A pub has become a private venue. The owners announced in September 2025 that Th
 
 ### Have you tried to resolve the matter yourself?
 
-No, I haven't spoken to the owners myself. I know others have. No planning application has been made since, so I am raising it with the council.
+No, I haven't spoken to the owners about it.
 
 ### What harm is being caused to you or to the environment?
 
-We have lost our pub. The Plough was the only place in Brockley Green where people could just turn up, have a drink and see their neighbours. Now the whole site is let to private groups, and the public can only use it on the days and hours the owners choose.
+We have lost our pub. For a long time The Plough was where people in Brockley Green could turn up, have a drink and see their neighbours. Now the site is marketed to private groups who book the whole of it, and the public can only use it on the days and hours the owners choose.
 
 [Say what The Plough meant to you, or how you used it.]
 
 ### If an officer visits the site, are there any health and safety concerns they should know about?
 
-None that I am aware of on the site. The entrance is on a sharp double bend, so please approach slowly.
+[Write "None known", or describe any hazard you know of.]
 
 ### Why are you making this complaint?
 
-National planning policy, updated in August 2026, names pubs as key community facilities. Policy HC6 says they should not be lost unless strict tests are met, including at least 12 months of marketing for their existing use. West Suffolk's own Local Plan Policy LP19 says much the same. Neither test has been looked at, because there has been no application. I would like the council to investigate.
+National planning policy, updated in August 2026, names pubs as key community facilities. Policy HC6 says they should not be lost unless strict tests are met. West Suffolk's own Local Plan Policy LP19 also protects pubs. Neither has been applied here, because there has been no planning application. I would like the council to investigate.
 
 ### Details that may help an initial assessment
 
-The Plough Inn was listed as an Asset of Community Value on 22 July 2026, until 21 July 2031. The owners say the restaurant will not reopen. A daytime coffee lounge and bar is due to open on 1 December 2026, closed on Fridays and Saturdays for private events.
+The Plough Inn was listed as an Asset of Community Value on 22 July 2026, until 21 July 2031. The owners say the restaurant will not reopen. A coffee lounge and bar is due to open on 1 December 2026, closed on Fridays and Saturdays for private events.
 
 ## Template 3: By the book
+
+**For:** any
 
 ### Describe the change of use, and why you think it needs planning permission
 
@@ -109,53 +124,57 @@ From pub to private-hire events venue and group holiday let. The owners market e
 
 ### Have you tried to resolve the matter yourself?
 
-No. Residents who met one of the owners were told he would do it by the book and take the community with him. I took that to mean he would apply for planning permission if the use changed. He has not, so I am asking the council.
+No. I understand that one of the owners told residents he would do it by the book and take the community with him. I take doing it by the book to mean applying for planning permission. No application has been made, so I am asking the council.
 
 ### What harm is being caused to you or to the environment?
 
-The harm is that a big change has happened to our village with no chance for anyone to comment. Traffic on a dangerous bend, late-night noise and the loss of the pub have not been assessed by anyone. [Add how the change affects you personally.]
+A big change has happened to our village with no planning application, so none of its effects have been assessed: traffic at a dangerous bend, noise, and the loss of the pub. [Add how the change affects you personally.]
 
 ### If an officer visits the site, are there any health and safety concerns they should know about?
 
-The only one I know of is the road. The access is on a double blind bend with poor visibility both ways.
+[Write "None known", or describe any hazard you know of.] The access has poor visibility both ways.
 
 ### Why are you making this complaint?
 
-Because doing it by the book means a planning application. That is how the neighbours, the parish council and the highway authority get a say, and how the council can set conditions on hours and numbers. I would like the council to ask the owners to apply.
+A planning application is how neighbours, the parish council and the highway authority get a say, and how the council can set conditions on hours and numbers. I would like the council to ask the owners to apply.
 
 ### Details that may help an initial assessment
 
-On 15 September 2025 the owners posted that The Plough "will no longer be managed as a public house or restaurant". Their brochure now offers exclusive hire with prices to December 2028. The council has an open enforcement case, EN/26/0160.
+On 15 September 2025 the owners posted that The Plough "will no longer be managed as a public house or restaurant". Their brochure offers exclusive hire with prices to December 2028. Council case reference EN/26/0160.
 
 ## Template 4: Late nights
 
+**For:** near
+
 ### Describe the change of use, and why you think it needs planning permission
 
-The Plough has gone from a village pub to a venue for private parties, weddings and group stays. Fridays and Saturdays are now set aside for private events. I think this is a change of use needing permission. No application has been made.
+The Plough has gone from a village pub to a venue for private parties, weddings and group stays. Fridays and Saturdays are set aside for private events. I think this is a change of use needing permission. No application has been made.
 
 ### Have you tried to resolve the matter yourself?
 
-I have not. I understand other residents have spoken to the owners, and that no planning application has come of it. The council is the right place to take this.
+I have not.
 
 ### What harm is being caused to you or to the environment?
 
-Noise, mostly, and the worry of it. A wedding or a hen party is not like a pub evening. There is music, people outside in the garden, and everyone leaving at once at the end of the night, with car doors and voices in a hamlet that is otherwise silent. The premises licence allows alcohol sales until 1am on Fridays and Saturdays, which are exactly the nights the owners have kept for private events.
+Noise, mostly, and the worry of it. A wedding or a party is not like a pub evening. If events bring music, guests outside in the garden and everyone leaving at once at the end of the night, that carries a long way in a hamlet this quiet. The premises licence allows alcohol sales until 1am on Fridays and Saturdays, the same nights the owners have kept for private events.
 
 [Say where you live in relation to The Plough, and whether you have heard anything yourself.]
 
 ### If an officer visits the site, are there any health and safety concerns they should know about?
 
-No hazards on site that I know of. The entrance is on a blind double bend, so please approach carefully.
+[Write "None known", or describe any hazard you know of.]
 
 ### Why are you making this complaint?
 
-A planning application would let the council set limits on hours, music and numbers. At the moment there are none, because the change has not been through planning. I am asking the council to investigate.
+A planning application would let the council set planning conditions on hours, music and numbers. At the moment there are no planning conditions, because the change has not been through planning. I am asking the council to look into it.
 
 ### Details that may help an initial assessment
 
-The owners' brochure for April 2027 to December 2028 says they are happy to take all-male or all-female groups, under the heading "Hen and stag parties", and offers karaoke hire and outdoor activities. Their opening times say Fridays and Saturdays are closed to the public for private events.
+In its booking terms, under the heading "Hen and stag parties", the owners' brochure says they are happy to accommodate all-male or all-female groups. It offers karaoke hire and outdoor activities. The coffee lounge and bar opening times say Fridays and Saturdays are closed for private events.
 
 ## Template 5: What the brochure says
+
+**For:** any
 
 ### Describe the change of use, and why you think it needs planning permission
 
@@ -163,25 +182,27 @@ The owners' own brochure describes the change. It offers "Exclusive use of the w
 
 ### Have you tried to resolve the matter yourself?
 
-No. I am not aware of any planning application despite earlier assurances to residents that things would be done properly, so I am bringing it to the council.
+No. I don't know the owners.
 
 ### What harm is being caused to you or to the environment?
 
-The brochure tells you what to expect: groups of up to 24, hen and stag parties welcome, coaches welcome, bouncy castles, an assault course, archery, karaoke and "It's a Knock Out" events. All of that, on a site that opens onto a double blind bend, in a very small hamlet. [Say which of these worries you most and why.]
+The brochure says what to expect. Groups of up to 24, hen and stag groups accepted, coaches catered for, and extras including bouncy castles, an assault course, archery, karaoke and "It's a Knock Out" events. The site opens onto a double blind bend in a very small hamlet. [Say which of these worries you most and why.]
 
 ### If an officer visits the site, are there any health and safety concerns they should know about?
 
-I am not aware of anything on the site. Please be careful at the entrance, which is on a blind bend.
+[Write "None known", or describe any hazard you know of.]
 
 ### Why are you making this complaint?
 
-Because the brochure describes a different business from the pub that was there, and nobody has applied for permission for it. I would like the council to look at the brochure and to ask the owners to apply.
+The brochure describes a different business from the pub that was there, and nobody has applied for permission for it. I would like the council to read the brochure and ask the owners to apply.
 
 ### Details that may help an initial assessment
 
-The brochure is linked from the owners' website, theploughcountrylodge.co.uk. One night for up to 24 guests is priced at £2,200 and seven nights at £6,000. It says visitors who are not staying are allowed "if booking one of our celebrations packages". It does not mention the coffee lounge and bar.
+The brochure is linked from the owners' website, theploughcountrylodge.co.uk. One night for up to 24 guests is priced at £2,200 and seven nights at £6,000. It says guests who are not staying are allowed "if booking one of our celebrations packages". It does not mention the coffee lounge and bar.
 
-## Template 6: No way to walk to a pub
+## Template 6: No pub you can walk to
+
+**For:** pub, loss, road
 
 ### Describe the change of use, and why you think it needs planning permission
 
@@ -189,53 +210,57 @@ The village pub has been turned into a private venue and holiday let. I believe 
 
 ### Have you tried to resolve the matter yourself?
 
-No. Others in the village have spoken to the owners. Nothing has changed, so I am writing to the council.
+No.
 
 ### What harm is being caused to you or to the environment?
 
-The Plough was the only pub anyone in Brockley Green could walk to. The nearest others are in Kedington, about 1.7 miles away by road, and Hundon, about 1.9 miles. The roads have no footway and no street lights, and there is no bus. So without The Plough, the only way to get to a pub is to drive.
+The Plough was the only pub anyone in Brockley Green could walk to. The nearest others are in Kedington, about 1.7 miles away by road, and Hundon, about 1.9 miles. The roads have no footway and no street lights, and there is no bus. Without The Plough, getting to a pub means driving.
 
 [Say whether you drive, and how you would get to a pub now.]
 
 ### If an officer visits the site, are there any health and safety concerns they should know about?
 
-Only the road. There is no footway, and the site entrance is on a double blind bend.
+[Write "None known", or describe any hazard you know of.] There is no footway on the road outside.
 
 ### Why are you making this complaint?
 
-West Suffolk Local Plan Policy LP19 protects pubs. Where a pub is lost, it looks for alternatives that the community can reach "by public transport or by cycling or walking". Here there are none. National policy HC6 also protects pubs. These questions have not been considered, because there has been no planning application. I would like the council to investigate.
+National policy HC6 and Local Plan Policy LP19 protect pubs. Neither has been applied to The Plough, because there has been no planning application. I would like the council to investigate.
 
 ### Details that may help an initial assessment
 
-The Plough Inn has been an Asset of Community Value since 22 July 2026. The owners say the restaurant will not reopen and that a daytime coffee lounge and bar will open on 1 December 2026, closed on Fridays and Saturdays for private events.
+The Plough Inn has been an Asset of Community Value since 22 July 2026. The owners say the restaurant will not reopen and that a coffee lounge and bar will open on 1 December 2026, from 10:30am to 5pm and closed on Fridays and Saturdays for private events.
 
 ## Template 7: Older neighbours
 
+**For:** pub, loss
+
 ### Describe the change of use, and why you think it needs planning permission
 
-The Plough was run as a pub for generations. It is now let as a whole to private groups for parties and stays. I think this is a change of use that needs planning permission. No application has been made.
+The Plough was run as a pub for generations. It is now marketed to private groups for parties and stays. I think this is a change of use that needs planning permission. No application has been made.
 
 ### Have you tried to resolve the matter yourself?
 
-No. I have not felt it was my place to approach the owners directly. Other residents have, and no application has followed.
+No. I didn't feel it was my place to approach the owners.
 
 ### What harm is being caused to you or to the environment?
 
-For older people here, the pub was where you saw people. You could walk there, sit for an hour and talk to someone. A lot of us no longer drive at night, or would rather not. A private venue for visiting groups does nothing for them. [If this applies to you or someone you know, say how.]
+For older people here, the pub was somewhere to see people. You could walk there, sit for an hour and talk to someone. Plenty of people prefer not to drive at night. A private venue for visiting groups does nothing for them. [If this applies to you or someone you know, say how.]
 
 ### If an officer visits the site, are there any health and safety concerns they should know about?
 
-Nothing on site as far as I know. Please mind the bend at the entrance.
+[Write "None known", or describe any hazard you know of.]
 
 ### Why are you making this complaint?
 
-The council listed The Plough as an Asset of Community Value because of what it did for local people. National and local planning policy protect pubs for the same reason. I would like the council to make sure those protections are considered, which means a planning application.
+The council listed The Plough as an Asset of Community Value because of what it did for local people. National and local planning policy protect pubs for the same reason. I would like those protections considered, which needs a planning application.
 
 ### Details that may help an initial assessment
 
-There is no bus service and no footway to the nearest other pubs, which are about 1.7 and 1.9 miles away by road. The Asset of Community Value listing runs from 22 July 2026 to 21 July 2031.
+There is no bus service and no footway to the nearest other pubs, about 1.7 and 1.9 miles away by road. The Asset of Community Value listing runs from 22 July 2026 to 21 July 2031.
 
 ## Template 8: Children and the road
+
+**For:** road, near
 
 ### Describe the change of use, and why you think it needs planning permission
 
@@ -243,25 +268,27 @@ Pub to events venue and group accommodation. The owners offer exclusive hire of 
 
 ### Have you tried to resolve the matter yourself?
 
-No. I understand the owners told residents they would follow the proper process. That has not happened yet, so I am asking the council.
+No. No planning application has been made, so I am asking the council.
 
 ### What harm is being caused to you or to the environment?
 
-I worry about anyone walking or cycling on Hundon Road near The Plough, children especially. There is no footway, the bend is blind both ways, and event days bring a lot of cars driven by people who do not know the road. [Say whether you or your family walk, cycle or ride on this road.]
+I worry about anyone walking or cycling on Hundon Road near The Plough, children especially. There is no footway, the bend is blind both ways, and event days can bring a lot of cars driven by people who do not know the road. [Say whether you or your family walk, cycle or ride on this road.]
 
 ### If an officer visits the site, are there any health and safety concerns they should know about?
 
-The road. The entrance sits on a double blind bend and there is nowhere to step off the carriageway.
+[Write "None known", or describe any hazard you know of.] Visibility at the entrance is poor.
 
 ### Why are you making this complaint?
 
-The highway safety of an events venue at this spot has never been assessed. A planning application would mean it was. I am asking the council to investigate and to require an application.
+The highway safety of an events venue at this spot has never been assessed. A planning application would mean it was. I am asking the council to investigate and to ask the owners to apply.
 
 ### Details that may help an initial assessment
 
-Neighbours saw the car park fill for a wedding reception on 27 June 2026, with cars on the entrance and verge. The owners' brochure welcomes coaches. In 2014 the County Highway Authority objected to a wedding marquee at Hundon Grange, about 0.7 miles along the same road, because of "substandard visibility" at its access (DC/14/0144/FUL).
+At a wedding reception on 27 June 2026, the car park filled and cars were parked on the entrance and verge. The owners' brochure says the site can take coaches.
 
 ## Template 9: Walking and cycling
+
+**For:** road
 
 ### Describe the change of use, and why you think it needs planning permission
 
@@ -269,19 +296,19 @@ The Plough has stopped being a pub. It is marketed for weddings, parties and gro
 
 ### Have you tried to resolve the matter yourself?
 
-No. I gather residents raised it with the owners some time ago. I am now asking the council to look at it.
+No, I haven't.
 
 ### What harm is being caused to you or to the environment?
 
-Hundon Road is a quiet lane used by walkers, cyclists and riders. It has no footway and no lighting, and at The Plough it bends sharply twice. Event traffic changes that. Cars arriving together, cars leaving late, and the occasional coach are a real hazard to anyone on foot or on a bike. [Say how you use the lane.]
+Hundon Road is used by walkers, cyclists and riders. It has no footway and no lighting, and at The Plough it bends sharply twice. Event traffic changes that. Cars arriving together and leaving together are a hazard to anyone on foot or on a bike, and the brochure says the site can take coaches. [Say how you use the road.]
 
 ### If an officer visits the site, are there any health and safety concerns they should know about?
 
-Take care on the approach. The entrance is on the bend and visibility is poor.
+[Write "None known", or describe any hazard you know of.]
 
 ### Why are you making this complaint?
 
-I would like the effect on the lane to be looked at properly, which only happens through a planning application. Please investigate and ask the owners to apply.
+I would like the effect on the road to be looked at properly, which happens through a planning application.
 
 ### Details that may help an initial assessment
 
@@ -289,31 +316,35 @@ The owners' brochure says the site can take "large vehicles including coaches" a
 
 ## Template 10: The café is not the pub
 
+**For:** pub, loss
+
 ### Describe the change of use, and why you think it needs planning permission
 
-The pub has closed and the building is let for private events and group stays. A coffee lounge and bar is planned, open in the daytime only. I think the main use of the site is now private hire, which is a change of use needing permission. No application has been made.
+The pub has closed and the building is marketed for private events and group stays. A coffee lounge and bar is planned for daytimes. I think the main use of the site is now private hire, which is a change of use needing permission. No application has been made.
 
 ### Have you tried to resolve the matter yourself?
 
-No, not personally. I understand residents were told things would be done by the book. I am asking the council to check that they are.
+No, not personally.
 
 ### What harm is being caused to you or to the environment?
 
-I would be pleased to see people back at The Plough. But the café will be open from 10:30am to 5pm on four days a week, closed on Mondays, and closed on Fridays and Saturdays for private events. The owners say the restaurant will not reopen. That is not the village pub. You will not be able to walk in for a pint on a Friday night. [Say what you used The Plough for.]
+I would be pleased to see people back at The Plough. But the café will open from 10:30am to 5pm on Tuesdays, Wednesdays, Thursdays and Sundays. It will be closed on Mondays, and on Fridays and Saturdays for private events. The owners say the restaurant will not reopen. That is not the village pub. [Say what you used The Plough for.]
 
 ### If an officer visits the site, are there any health and safety concerns they should know about?
 
-None on site that I know of. The entrance is on a sharp double bend.
+[Write "None known", or describe any hazard you know of.]
 
 ### Why are you making this complaint?
 
-As I read the owners' brochure, the public cannot use the site while a group has booked the whole of it. If that is right, the café can only open when there is no such booking, and the main use is private hire. I would like the council to look at what the main use of the site now is, and whether permission is needed.
+As I read the owners' brochure, the public cannot use the site while a group has booked the whole of it. If that is right, the café could only open when there is no such booking. I would like the council to look at what the main use of the site now is, and whether planning permission is needed.
 
 ### Details that may help an initial assessment
 
-The brochure offers "Exclusive use of the whole site and private grounds" and its terms say no one other than the people on the booking form may be in the property or grounds without permission. The café opening times are on the owners' website and Facebook page.
+The brochure offers "Exclusive use of the whole site and private grounds". Its terms say no one other than the people on the booking form may be in the holiday let or grounds without prior permission. The café opening times are on the owners' website and Facebook page.
 
 ## Template 11: Two venues on one road
+
+**For:** road, near
 
 ### Describe the change of use, and why you think it needs planning permission
 
@@ -321,211 +352,31 @@ The Plough has changed from a pub to an exclusive-hire venue and holiday let. I 
 
 ### Have you tried to resolve the matter yourself?
 
-No. I know local people have spoken to the owners already, and I do not think more private conversations will help.
+No. I think the council is the right place for this.
 
 ### What harm is being caused to you or to the environment?
 
-The same owners already run an events business, Suffolk Retreats, at Hundon Grange, about 0.7 miles along the same road. It markets weddings, hen and stag groups and stays for up to 24. A second venue a short way down the road doubles the event traffic and noise on a quiet lane. The area gains nothing new and loses its pub. [Say how the road or the noise affects you.]
+There is already an events business, Suffolk Retreats, at Hundon Grange, about 0.7 miles along the same road. It markets weddings, hen and stag groups and stays for up to 24. A second venue on the same road adds to the event traffic and noise. The area gains nothing new and loses its pub. [Say how the road or the noise affects you.]
 
 ### If an officer visits the site, are there any health and safety concerns they should know about?
 
-Please approach with care. The Plough's entrance is on a double blind bend.
+[Write "None known", or describe any hazard you know of.]
 
 ### Why are you making this complaint?
 
-I would like the council to consider the combined effect of two venues on this road, and the loss of the pub, through a planning application. Please investigate.
+I would like the council to consider the combined effect of two venues on this road, and the loss of the pub, through a planning application.
 
 ### Details that may help an initial assessment
 
-Suffolk Retreats' website gives the same phone numbers as The Plough Country Lodge. In 2014 the council refused a wedding marquee at Hundon Grange (DC/14/0144/FUL), and the County Highway Authority recommended refusal on highway safety grounds.
+Suffolk Retreats' website gives the same phone numbers as The Plough Country Lodge. The Plough's brochure offers exclusive use to groups of up to 24 and says the site can take coaches.
 
 ## Template 12: A long history
 
-### Describe the change of use, and why you think it needs planning permission
-
-An inn for about 170 years has become a private hire venue and holiday let. In my opinion that is a material change of use. No planning application has been made.
-
-### Have you tried to resolve the matter yourself?
-
-No. I have not spoken to the owners. I understand others have, without a planning application resulting.
-
-### What harm is being caused to you or to the environment?
-
-The Plough has been an inn since at least the 1850s. One family ran it from 1957. It had quiz nights, charity evenings, a Jubilee party in 2022, and meetings of the Round Table, Rotary and Lions. Losing that is a real loss to this community, and it is happening without anyone being asked. [Add a memory or a reason it matters to you.]
-
-### If an officer visits the site, are there any health and safety concerns they should know about?
-
-Nothing that I know of on site. The access is on a blind double bend.
-
-### Why are you making this complaint?
-
-The council recognised The Plough's value when it listed it as an Asset of Community Value in July 2026. National policy HC6 and Local Plan Policy LP19 protect pubs. I would like those protections to be applied, through a planning application.
-
-### Details that may help an initial assessment
-
-Listed as an Asset of Community Value from 22 July 2026 to 21 July 2031. The owners announced on 15 September 2025 that it "will no longer be managed as a public house or restaurant".
-
-## Template 13: We have not had a say
+**For:** pub, loss
 
 ### Describe the change of use, and why you think it needs planning permission
 
-The owners have changed The Plough from a pub to a venue for private events and group holidays. I think this needed planning permission first. No application has been made, so there has been no consultation.
-
-### Have you tried to resolve the matter yourself?
-
-No. Some residents spoke to one of the owners, who said he wanted to take the community with him. A planning application is the way to do that, and there has not been one.
-
-### What harm is being caused to you or to the environment?
-
-None of us has had the chance to comment. Normally, a change like this would be advertised, the neighbours would be written to, and the parish council would be asked. The road, the noise and the loss of the pub would be weighed up before anything happened. Here it has all just happened. [Say how you feel about not being asked, or how the change affects you.]
-
-### If an officer visits the site, are there any health and safety concerns they should know about?
-
-None on site. Please take care at the entrance on the bend.
-
-### Why are you making this complaint?
-
-To ask the council to put this through the normal process, so that residents can have their say. Please investigate and invite the owners to apply.
-
-### Details that may help an initial assessment
-
-The planning register shows no application for the site since 1996. The owners' brochure has prices running to December 2028, so this is a long-term business, not a one-off.
-
-## Template 14: Groups, coaches and hen parties
-
-### Describe the change of use, and why you think it needs planning permission
-
-The Plough is now marketed as exclusive-hire group accommodation and a party venue. Hen and stag groups are accepted and coaches are welcome. I believe this is a material change from a village pub. There is no planning application.
-
-### Have you tried to resolve the matter yourself?
-
-No. Residents were told the owners would do things properly. Nothing has been applied for, so I am contacting the council.
-
-### What harm is being caused to you or to the environment?
-
-The scale worries me. Groups of up to 24 staying, extra guests for celebration packages, coaches on a narrow lane, and outdoor activities from bouncy castles to an assault course. This is a very different thing from a village pub, and it sits right on a double blind bend among homes. [Say what concerns you most.]
-
-### If an officer visits the site, are there any health and safety concerns they should know about?
-
-The road is the main concern. Visibility at the entrance is poor in both directions.
-
-### Why are you making this complaint?
-
-An application would let the council consider limits on numbers, vehicles and hours. Without one, there are none. I am asking the council to investigate and require an application.
-
-### Details that may help an initial assessment
-
-The brochure for April 2027 to December 2028 says: "We can accommodate large vehicles including coaches." Under the heading "Hen and stag parties" it says they are happy to accommodate all-male or all-female groups. It offers bouncy castles, an assault course, archery, karaoke and "It's a Knock Out" events.
-
-## Template 15: Every weekend
-
-### Describe the change of use, and why you think it needs planning permission
-
-Pub to private events venue. The owners have reserved Fridays and Saturdays for private events, every week. In my view that is a change of use requiring permission. None has been applied for.
-
-### Have you tried to resolve the matter yourself?
-
-No. I understand residents have already raised it with the owners. I am now raising it with the council.
-
-### What harm is being caused to you or to the environment?
-
-The pattern is the problem. If every Friday and Saturday is a private event, that is traffic arriving and leaving together, on a blind bend, twice a week, and noise late into the night. The premises licence allows alcohol sales until 1am on those nights. [Say how weekend events would affect you.]
-
-### If an officer visits the site, are there any health and safety concerns they should know about?
-
-I do not know of any on site. The entrance is on a double blind bend.
-
-### Why are you making this complaint?
-
-Because this is a regular weekly use, not an occasional function. It should be assessed through a planning application, with conditions if it is allowed. Please investigate.
-
-### Details that may help an initial assessment
-
-The owners' opening times for the coffee lounge and bar, from 1 December 2026, say Fridays and Saturdays are closed for private events. Their brochure offers exclusive use of the whole site and grounds.
-
-## Template 16: The wedding in June
-
-### Describe the change of use, and why you think it needs planning permission
-
-The Plough is no longer a pub. It has been refitted as a venue for weddings, parties and group stays. I think this needs planning permission, and I am not aware of any application.
-
-### Have you tried to resolve the matter yourself?
-
-No. I know residents have spoken to the owners. No application has followed.
-
-### What harm is being caused to you or to the environment?
-
-The wedding reception on 27 June 2026 showed what one event looks like. Neighbours saw the car park fill, cars parked along the entrance and on the verge, and a neighbour's access blocked. That was one event, and the owners now want to run private events every weekend. [If you saw the June event, or another one, say what you saw.]
-
-### If an officer visits the site, are there any health and safety concerns they should know about?
-
-Please approach carefully. On event days the entrance and verges can be full of parked cars, on a blind double bend.
-
-### Why are you making this complaint?
-
-I would like the council to look at whether this use needs planning permission, and to ask for an application so that parking and traffic can be properly assessed.
-
-### Details that may help an initial assessment
-
-Residents have photographs of the car park and verge on 27 June 2026. The owners posted on 6 August 2026 that the ground floor could be hired for "weddings, christenings, milestone celebrations".
-
-## Template 17: National policy
-
-### Describe the change of use, and why you think it needs planning permission
-
-The pub has been replaced by an exclusive-hire venue and holiday let. In my view that is a material change of use, and no application has been made.
-
-### Have you tried to resolve the matter yourself?
-
-No. I understand residents met one of the owners and were told the process would be followed. It has not been yet.
-
-### What harm is being caused to you or to the environment?
-
-The village has lost a pub. Under the National Planning Policy Framework published on 17 August 2026, pubs are key community facilities. That reflects how much a place like The Plough matters in a small community. [Say what the loss means to you.]
-
-### If an officer visits the site, are there any health and safety concerns they should know about?
-
-Nothing on site that I know about. Please take care at the entrance, which is on a blind bend.
-
-### Why are you making this complaint?
-
-Policy HC6 says key community facilities, including pubs, should not be lost unless strict tests are met. For a pub, that includes evidence that it has been marketed for its existing use for at least 12 months without success. The owners have not had to show any of that, because there has been no application. I would like the council to require one.
-
-### Details that may help an initial assessment
-
-The Plough closed as a pub in October 2024. The owners announced in September 2025 that it would no longer be managed as a pub or restaurant. It has been an Asset of Community Value since 22 July 2026.
-
-## Template 18: The Local Plan test
-
-### Describe the change of use, and why you think it needs planning permission
-
-From a pub to private hire for events and group stays. I believe this is a material change of use. There is no planning application on the register.
-
-### Have you tried to resolve the matter yourself?
-
-No. Others have spoken to the owners. I would rather the council dealt with it.
-
-### What harm is being caused to you or to the environment?
-
-We are losing a community facility that the Local Plan is meant to protect. [Say how you used The Plough, or how its loss affects you.]
-
-### If an officer visits the site, are there any health and safety concerns they should know about?
-
-Only the road. The entrance is on a double blind bend.
-
-### Why are you making this complaint?
-
-West Suffolk Local Plan Policy LP19 says the loss of a pub will only be supported if it is shown not to be viable, with at least 12 months of genuine marketing, and either there is no local demand, or other facilities are available that people can reach by public transport, cycling or walking. In my view local demand is clear: the council listed The Plough as an Asset of Community Value in July 2026. And there is no bus or footway to the nearest other pubs. I would like the council to require an application so these tests can be applied.
-
-### Details that may help an initial assessment
-
-The nearest other pubs are about 1.7 miles (Kedington) and 1.9 miles (Hundon) away by road, along unlit lanes without footways. The planning register shows no application for The Plough since 1996.
-
-## Template 19: Short and plain
-
-### Describe the change of use, and why you think it needs planning permission
-
-It was a pub. Now it is a private venue for parties and group stays. That needs planning permission, in my view. None has been applied for.
+A building that was an inn for about 170 years is now a private hire venue and holiday let. In my opinion that is a material change of use. No planning application has been made.
 
 ### Have you tried to resolve the matter yourself?
 
@@ -533,21 +384,219 @@ No.
 
 ### What harm is being caused to you or to the environment?
 
-Event traffic on a blind bend, noise at night, and no pub. [Add one sentence about how it affects you.]
+The Plough was an inn from at least the 1850s, and one family ran it from 1957. It had quiz nights, charity evenings, a Jubilee party in 2022, and meetings of the Round Table, Rotary and Lions. Losing that is a real loss to a small community, and it has happened without the formal consultation a planning application brings. [Add a memory or a reason it matters to you.]
 
 ### If an officer visits the site, are there any health and safety concerns they should know about?
 
-Mind the bend at the entrance.
+[Write "None known", or describe any hazard you know of.]
 
 ### Why are you making this complaint?
 
-I would like the council to investigate and ask the owners to apply for planning permission, so that residents get a say.
+The council recognised The Plough's value when it listed it as an Asset of Community Value in July 2026. National policy HC6 and Local Plan Policy LP19 protect pubs. I would like those protections applied, through a planning application.
 
 ### Details that may help an initial assessment
 
-The owners' brochure offers exclusive use of the whole site for up to 24 guests, with prices to December 2028. Council enforcement case EN/26/0160.
+Listed as an Asset of Community Value from 22 July 2026 to 21 July 2031. The owners announced on 15 September 2025 that it "will no longer be managed as a public house or restaurant".
+
+## Template 13: No formal consultation
+
+**For:** any
+
+### Describe the change of use, and why you think it needs planning permission
+
+The owners have changed The Plough from a pub to a venue for private events and group holidays. I think this needed planning permission first. No application has been made, so there has been no formal consultation.
+
+### Have you tried to resolve the matter yourself?
+
+No. I understand some residents spoke to one of the owners, who said he wanted to take the community with him. In my view a planning application is the way to do that.
+
+### What harm is being caused to you or to the environment?
+
+There has been no formal consultation of the kind a planning application brings. Normally a change like this would be advertised, the neighbours written to and the parish council asked. The road, the noise and the loss of the pub would be weighed up first. [Say how the change affects you.]
+
+### If an officer visits the site, are there any health and safety concerns they should know about?
+
+[Write "None known", or describe any hazard you know of.]
+
+### Why are you making this complaint?
+
+To ask the council to put this through the normal process, so that residents can have their say. Please invite the owners to apply.
+
+### Details that may help an initial assessment
+
+The planning register shows no application for the site since 1996. The owners' brochure has prices running to December 2028.
+
+## Template 14: Groups and coaches
+
+**For:** near, road
+
+### Describe the change of use, and why you think it needs planning permission
+
+The Plough is now marketed as exclusive-hire group accommodation and a party venue. The brochure accepts hen and stag groups and says the site can take coaches. I believe this is a material change from a village pub. There is no planning application.
+
+### Have you tried to resolve the matter yourself?
+
+No. I'm raising it with the council instead.
+
+### What harm is being caused to you or to the environment?
+
+The scale worries me. Groups of up to 24 staying, extra guests with celebration packages, coaches on a narrow road, and outdoor activities from bouncy castles to an assault course. That is a very different thing from a village pub, on a double blind bend among homes. [Say what concerns you most.]
+
+### If an officer visits the site, are there any health and safety concerns they should know about?
+
+[Write "None known", or describe any hazard you know of.]
+
+### Why are you making this complaint?
+
+An application would let the council consider planning conditions on numbers, vehicles and hours. There are no planning conditions now. I am asking the council to look into it and invite an application.
+
+### Details that may help an initial assessment
+
+The brochure for April 2027 to December 2028 says: "We can accommodate large vehicles including coaches." In its booking terms, under "Hen and stag parties", it says they are happy to accommodate all-male or all-female groups. It offers bouncy castles, an assault course, archery, karaoke and "It's a Knock Out" events.
+
+## Template 15: Fridays and Saturdays
+
+**For:** near
+
+### Describe the change of use, and why you think it needs planning permission
+
+Pub to private events venue. The owners have reserved Fridays and Saturdays for private events. In my view that is a change of use requiring permission. None has been applied for.
+
+### Have you tried to resolve the matter yourself?
+
+No.
+
+### What harm is being caused to you or to the environment?
+
+If Fridays and Saturdays are given over to private events, that could mean traffic arriving and leaving together, on a blind bend, twice a week, and noise into the night. The premises licence allows alcohol sales until 1am on those nights. [Say how weekend events would affect you.]
+
+### If an officer visits the site, are there any health and safety concerns they should know about?
+
+[Write "None known", or describe any hazard you know of.]
+
+### Why are you making this complaint?
+
+I think this should be assessed through a planning application, with planning conditions if it is allowed. I would like the council to investigate.
+
+### Details that may help an initial assessment
+
+The owners' opening times for the coffee lounge and bar, from 1 December 2026, say Fridays and Saturdays are closed for private events. Their brochure offers exclusive use of the whole site and grounds.
+
+## Template 16: The wedding in June
+
+**For:** near
+
+### Describe the change of use, and why you think it needs planning permission
+
+The Plough is no longer a pub. The owners say it has had a complete refit, and it is marketed for weddings, parties and group stays. I think this needs planning permission, and I am not aware of any application.
+
+### Have you tried to resolve the matter yourself?
+
+No, I have not spoken to them.
+
+### What harm is being caused to you or to the environment?
+
+The wedding reception on 27 June 2026 showed what one event looks like. The car park filled, cars were parked along the entrance and on the verge, and a neighbour's access was blocked. The owners have reserved Fridays and Saturdays for private events. [If you saw the June event, or another one, say what you saw. If not, delete this.]
+
+### If an officer visits the site, are there any health and safety concerns they should know about?
+
+[Write "None known", or describe any hazard you know of.]
+
+### Why are you making this complaint?
+
+I would like the council to look at whether this use needs planning permission, and to ask for an application so that parking and traffic can be assessed.
+
+### Details that may help an initial assessment
+
+The campaign organiser photographed the car park and verge on 27 June 2026. The owners posted on 6 August 2026 that the ground floor could be hired for "weddings, christenings, milestone celebrations".
+
+## Template 17: National policy
+
+**For:** loss
+
+### Describe the change of use, and why you think it needs planning permission
+
+The pub has been replaced by an exclusive-hire venue and holiday let. In my view that is a material change of use, and no application has been made.
+
+### Have you tried to resolve the matter yourself?
+
+No. It seems to me a matter for the council.
+
+### What harm is being caused to you or to the environment?
+
+The village has lost a pub. The National Planning Policy Framework published on 17 August 2026 calls pubs key community facilities, which reflects how much a place like The Plough matters in a small community. [Say what the loss means to you.]
+
+### If an officer visits the site, are there any health and safety concerns they should know about?
+
+[Write "None known", or describe any hazard you know of.]
+
+### Why are you making this complaint?
+
+Policy HC6 says key community facilities, including pubs, should not be lost unless strict tests are met. The owners have not had to meet them, because there has been no application. I would like the council to invite one.
+
+### Details that may help an initial assessment
+
+The Plough closed as a pub in October 2024. The owners announced in September 2025 that it would no longer be managed as a pub or restaurant. It has been an Asset of Community Value since 22 July 2026.
+
+## Template 18: The Local Plan
+
+**For:** loss
+
+### Describe the change of use, and why you think it needs planning permission
+
+From a pub to private hire for events and group stays. I believe this is a material change of use. There is no planning application on the register.
+
+### Have you tried to resolve the matter yourself?
+
+No. I would rather the council dealt with it.
+
+### What harm is being caused to you or to the environment?
+
+We are losing a community facility that the Local Plan is meant to protect. [Say how you used The Plough, or how its loss affects you.]
+
+### If an officer visits the site, are there any health and safety concerns they should know about?
+
+[Write "None known", or describe any hazard you know of.]
+
+### Why are you making this complaint?
+
+West Suffolk Local Plan Policy LP19 lists pubs as community facilities. It sets tests before the council will support losing one, including at least 12 months of genuine marketing. In my view there is clear local demand. The council listed The Plough as an Asset of Community Value in July 2026. I would like the council to ask for an application so that these tests can be applied.
+
+### Details that may help an initial assessment
+
+The nearest other pubs are about 1.7 miles (Kedington) and 1.9 miles (Hundon) away by road, along unlit roads without footways. The planning register shows no application for The Plough since 1996.
+
+## Template 19: Short and plain
+
+**For:** any
+
+### Describe the change of use, and why you think it needs planning permission
+
+It was a pub. Now it is marketed as a private venue for parties and group stays. In my view that needs planning permission. None has been applied for.
+
+### Have you tried to resolve the matter yourself?
+
+No.
+
+### What harm is being caused to you or to the environment?
+
+Event traffic on a blind bend, possible noise at night, and no pub. [Add one sentence about how it affects you.]
+
+### If an officer visits the site, are there any health and safety concerns they should know about?
+
+[Write "None known", or describe any hazard you know of.]
+
+### Why are you making this complaint?
+
+I would like the council to ask the owners to apply for planning permission, so that residents get a say.
+
+### Details that may help an initial assessment
+
+The owners' brochure offers exclusive use of the whole site for up to 24 guests, with prices to December 2028. Council case EN/26/0160.
 
 ## Template 20: Blocked access and verges
+
+**For:** near, road
 
 ### Describe the change of use, and why you think it needs planning permission
 
@@ -555,25 +604,27 @@ The Plough has changed from a pub into an exclusive-hire events venue with group
 
 ### Have you tried to resolve the matter yourself?
 
-I haven't. I understand residents have already spoken to the owners about doing this properly, and that no application has been made.
+I haven't.
 
 ### What harm is being caused to you or to the environment?
 
-Parking. On 27 June 2026 neighbours saw the car park fill and cars parked on the verge, and a neighbour's access was blocked. On a narrow lane, a blocked access or a verge full of cars can also stop a delivery, a farm vehicle or an ambulance getting through. [Say whether you have had trouble getting past or in and out.]
+Parking. At a wedding reception on 27 June 2026, the car park filled, cars were parked on the verge, and a neighbour's access was blocked. On a narrow road, a blocked access or cars on the verge can also stop a delivery, a farm vehicle or an ambulance getting through. [Say whether you have had trouble getting past or in and out.]
 
 ### If an officer visits the site, are there any health and safety concerns they should know about?
 
-On event days, parked cars narrow the lane and make the blind bend more dangerous.
+[Write "None known", or describe any hazard you know of.] On event days, parked cars can narrow the road near the bend.
 
 ### Why are you making this complaint?
 
-The parking demand of an events venue has never been assessed here. A planning application would look at it. I am asking the council to investigate.
+The parking an events venue needs has never been assessed here. A planning application would look at it.
 
 ### Details that may help an initial assessment
 
-The brochure offers stays for up to 24 guests, with extra guests for celebration packages, and says coaches can be accommodated. Residents have photographs from 27 June 2026.
+The brochure offers stays for up to 24 guests, with extra guests for celebration packages, and says coaches can be accommodated. The campaign organiser has photographs from 27 June 2026.
 
-## Template 21: Dark lanes
+## Template 21: Dark roads
+
+**For:** road, near
 
 ### Describe the change of use, and why you think it needs planning permission
 
@@ -581,25 +632,27 @@ The Plough is now marketed as a private-hire venue and holiday let, not a pub. I
 
 ### Have you tried to resolve the matter yourself?
 
-No. Residents were told it would be done by the book. I am asking the council to make sure it is.
+No.
 
 ### What harm is being caused to you or to the environment?
 
-The lanes here are unlit. In winter it is dark by late afternoon. Guests leaving a party at midnight drive out onto a blind bend in the dark, on roads they do not know, past people's homes. [Say whether you are out on these roads after dark.]
+The roads here are unlit. In winter it is dark by late afternoon. Guests leaving a late party would drive out onto a blind bend in the dark, on roads they do not know, past people's homes. [Say whether you are out on these roads after dark.]
 
 ### If an officer visits the site, are there any health and safety concerns they should know about?
 
-The entrance is on a double blind bend with no street lighting.
+[Write "None known", or describe any hazard you know of.] There is no street lighting.
 
 ### Why are you making this complaint?
 
-Late-night use of this site, at this access, should be assessed, with conditions on hours if it is allowed. That needs a planning application. Please investigate.
+Evening use of this site, at this access, should be assessed, with planning conditions on hours if it is allowed. That needs a planning application.
 
 ### Details that may help an initial assessment
 
-The premises licence allows alcohol sales until 1am on Fridays and Saturdays. The owners have reserved those nights for private events. The roads around Brockley Green have no footway and no street lights.
+The premises licence allows alcohol sales until 1am on Fridays and Saturdays, and the owners have reserved those nights for private events. The roads around Brockley Green have no footway and no street lights.
 
 ## Template 22: The council has looked at this road before
+
+**For:** road
 
 ### Describe the change of use, and why you think it needs planning permission
 
@@ -607,7 +660,7 @@ The Plough has gone from a pub to an exclusive-hire venue for weddings, parties 
 
 ### Have you tried to resolve the matter yourself?
 
-No. I understand the owners have already been asked by residents to follow the planning process.
+No. I'm writing to the council because this is a highway safety question.
 
 ### What harm is being caused to you or to the environment?
 
@@ -615,43 +668,47 @@ The risk to people using the road. [Say how you use Hundon Road.]
 
 ### If an officer visits the site, are there any health and safety concerns they should know about?
 
-Please approach slowly. The entrance is on a double blind bend.
+[Write "None known", or describe any hazard you know of.]
 
 ### Why are you making this complaint?
 
-In 2014 the council refused an application for a wedding marquee at Hundon Grange, about 0.7 miles along this same road (DC/14/0144/FUL). The County Highway Authority recommended refusal. It said the access had "substandard visibility" and that "danger would be created by the increased traffic use of the access". The Plough's access is on a double blind bend. I think the same concerns apply here at least as strongly, and they should be assessed through a planning application.
+In 2014 the council at the time refused an application for wedding receptions in a marquee at Hundon Grange, about 0.7 miles along this same road (DC/14/0144/FUL). The County Highway Authority recommended refusal on highway safety grounds, citing "substandard visibility" at that access. The Plough's access is on a double blind bend. I think the same kind of concern applies here, and it should be assessed through a planning application.
 
 ### Details that may help an initial assessment
 
-The same owners now run Suffolk Retreats at Hundon Grange. The Plough's brochure welcomes coaches and offers exclusive use to groups of up to 24.
+The Plough's brochure says the site can take coaches and offers exclusive use to groups of up to 24.
 
 ## Template 23: Closed to the public
 
+**For:** pub, loss
+
 ### Describe the change of use, and why you think it needs planning permission
 
-A pub open to everyone has become a venue that groups book for their exclusive use. I believe that is a material change of use. I can find no planning application for it.
+A pub open to everyone is now marketed as a venue that groups book for their exclusive use. I believe that is a material change of use. I can find no planning application for it.
 
 ### Have you tried to resolve the matter yourself?
 
-No, I have not approached the owners myself. Others have.
+No, I haven't approached the owners.
 
 ### What harm is being caused to you or to the environment?
 
-The point of a pub is that anyone can go in. The Plough is now booked as a whole by private groups, and its terms keep everyone else off the site during a booking. The community has lost a place it used to be able to walk into. [Say how this affects you.]
+The point of a pub is that anyone can go in. The Plough is now marketed for booking as a whole by private groups, and the booking terms keep everyone else off the site during a booking. The community has lost a place it used to be able to walk into. [Say how this affects you.]
 
 ### If an officer visits the site, are there any health and safety concerns they should know about?
 
-Nothing on site that I know of. The entrance is on a blind bend.
+[Write "None known", or describe any hazard you know of.]
 
 ### Why are you making this complaint?
 
-The change from public to private use is what makes this a different use, in my view. I would like the council to investigate and require a planning application.
+In my view the change from public to private use is what makes this a different use. I would like the council to investigate and invite a planning application.
 
 ### Details that may help an initial assessment
 
-The brochure offers "Exclusive use of the whole site and private grounds". Its terms say no one other than those on the booking form may be in the holiday let or grounds without permission. Fridays and Saturdays are closed to the public for private events.
+The brochure offers "Exclusive use of the whole site and private grounds". Its terms say no one other than those on the booking form may be in the holiday let or grounds without prior permission. Fridays and Saturdays are closed to the public for private events.
 
 ## Template 24: Seasonal events
+
+**For:** road, near
 
 ### Describe the change of use, and why you think it needs planning permission
 
@@ -659,103 +716,111 @@ Pub to events venue and group accommodation, with seasonal public events as well
 
 ### Have you tried to resolve the matter yourself?
 
-No. Residents have spoken to the owners. No application has followed.
+No.
 
 ### What harm is being caused to you or to the environment?
 
-Besides private hire, the owners run public attractions. In December 2025 there was a Winter Wonderland with an ice rink and inflatables in the garden. A "Skate and Bounce" event with a licensed bar is advertised from 8 to 31 December 2026, and booking is not needed. Drop-in attractions bring cars all day onto a lane with a double blind bend. [Say whether you noticed traffic last December.]
+As well as private hire, the owners run public attractions. In December 2025 there was a Winter Wonderland with an ice rink and inflatables in the garden. A "Skate and Bounce" event with a licensed bar is advertised from 8 to 31 December 2026, and the poster says booking is not necessary. Drop-in attractions bring cars through the day onto a road with a double blind bend. [Say whether you noticed traffic last December.]
 
 ### If an officer visits the site, are there any health and safety concerns they should know about?
 
-During events, expect parked cars near the entrance, which is on a blind bend.
+[Write "None known", or describe any hazard you know of.]
 
 ### Why are you making this complaint?
 
-All of these uses together, at this access, should be looked at through a planning application. I am asking the council to investigate.
+I think all of these uses together, at this access, should be looked at through a planning application.
 
 ### Details that may help an initial assessment
 
 The Winter Wonderland poster gave opening times of Thursday to Sunday, 4 to 23 December 2025, 3pm to 8pm. The 2026 event is advertised on The Plough Country Lodge Facebook page.
 
-## Template 25: Driving past every day
+## Template 25: Using the road
+
+**For:** road
 
 ### Describe the change of use, and why you think it needs planning permission
 
-The Plough is now an exclusive-hire venue and holiday let instead of a pub. In my view that is a material change of use. No application has been made.
+The Plough is now marketed as an exclusive-hire venue and holiday let instead of a pub. In my view that is a material change of use. No application has been made.
 
 ### Have you tried to resolve the matter yourself?
 
-No. I understand residents have spoken to the owners.
+No.
 
 ### What harm is being caused to you or to the environment?
 
-I drive this road regularly. The bends at The Plough are already a place where you slow right down and hope. Cars pulling out of a busy car park, or parked on the verge, would make it worse. [Say how often you use the road and when.]
+[Say how often you use Hundon Road, and how.] The bends at The Plough are already a place where you slow right down. Cars pulling out of a busy car park, or parked on the verge, would make them worse.
 
 ### If an officer visits the site, are there any health and safety concerns they should know about?
 
-The access is on a double blind bend. Please take care.
+[Write "None known", or describe any hazard you know of.]
 
 ### Why are you making this complaint?
 
-I would like the highway impact of an events venue here to be assessed properly, which needs a planning application. Please investigate.
+I would like the highway effect of an events venue here to be assessed, which needs a planning application.
 
 ### Details that may help an initial assessment
 
-Neighbours saw cars parked on the verge and a neighbour's access blocked during a wedding reception on 27 June 2026. The brochure says coaches can be accommodated.
+At a wedding reception on 27 June 2026, cars were parked on the verge and a neighbour's access was blocked. The brochure says coaches can be accommodated.
 
-## Template 26: A former regular
+## Template 26: When it was a pub
+
+**For:** pub
 
 ### Describe the change of use, and why you think it needs planning permission
 
-The Plough was our local. It is now let to private groups for parties and stays, and the restaurant will not reopen. I believe this change needs planning permission. There is no application.
+The Plough was a pub. It is now marketed to private groups for parties and stays, and the owners say the restaurant will not reopen. I believe this change needs planning permission. There is no application.
 
 ### Have you tried to resolve the matter yourself?
 
-No. Other residents have spoken to the owners and been told things would be done properly. That has not happened.
+No.
 
 ### What harm is being caused to you or to the environment?
 
-[Say when you used to go to The Plough and what you went for.] Now there is nowhere to go within walking distance, and the building is let to people from elsewhere.
+[Say when you used to go to The Plough, and what you went for.] There is now no pub within walking distance of Brockley Green.
 
 ### If an officer visits the site, are there any health and safety concerns they should know about?
 
-None on site that I know of. The entrance is on a blind bend.
+[Write "None known", or describe any hazard you know of.]
 
 ### Why are you making this complaint?
 
-I would like the loss of the pub to be tested against national policy HC6 and Local Plan Policy LP19, which only happens through a planning application. Please investigate.
+I would like the loss of the pub to be tested against national policy HC6 and Local Plan Policy LP19, which happens through a planning application.
 
 ### Details that may help an initial assessment
 
-The owners say a daytime coffee lounge and bar will open from 1 December 2026, closed on Fridays and Saturdays for private events, and that the restaurant will not reopen. The Plough Inn is an Asset of Community Value until 21 July 2031.
+The owners say a coffee lounge and bar will open from 1 December 2026, 10:30am to 5pm, closed on Mondays and on Fridays and Saturdays for private events. The Plough Inn is an Asset of Community Value until 21 July 2031.
 
 ## Template 27: What I am asking the council to do
 
+**For:** any
+
 ### Describe the change of use, and why you think it needs planning permission
 
-The Plough, a former pub, is now used and marketed as an exclusive-hire events venue and group holiday let. I believe this is a material change of use for which no planning application has been made.
+The Plough, a former pub, is now marketed as an exclusive-hire events venue and group holiday let. I believe this is a material change of use for which no planning application has been made.
 
 ### Have you tried to resolve the matter yourself?
 
-No. I understand residents were told by one of the owners that things would be done by the book. I am asking the council for help instead of approaching them again.
+No. I am asking the council for help.
 
 ### What harm is being caused to you or to the environment?
 
-Traffic at a double blind bend, noise at night in a small hamlet, and the loss of the village pub. [Say which affects you most.]
+Traffic at a double blind bend, possible noise at night in a small hamlet, and the loss of the village pub. [Say which affects you most, and how.]
 
 ### If an officer visits the site, are there any health and safety concerns they should know about?
 
-Only the road. The access has poor visibility both ways.
+[Write "None known", or describe any hazard you know of.]
 
 ### Why are you making this complaint?
 
-I would like the council to establish the facts of how the site is being used and marketed, and to ask the owners to apply for planning permission. If they will not, I would ask the council to consider formal enforcement. I would like to be kept informed.
+I would like the council to find out how the site is being used and marketed, and to ask the owners to apply for planning permission. If they do not, I would ask the council to consider formal action. Please keep me informed.
 
 ### Details that may help an initial assessment
 
 Evidence of the use: the owners' brochure for April 2027 to December 2028, their website, and their Facebook posts of 15 September 2025, 6 August 2026 and October 2026. Council case reference EN/26/0160.
 
-## Template 28: No objection to weddings, just the process
+## Template 28: Not against weddings
+
+**For:** any
 
 ### Describe the change of use, and why you think it needs planning permission
 
@@ -763,51 +828,55 @@ The owners have changed The Plough from a pub to a private venue for weddings, c
 
 ### Have you tried to resolve the matter yourself?
 
-No. I know residents have talked to the owners.
+No.
 
 ### What harm is being caused to you or to the environment?
 
-I have nothing against weddings or holiday lets. Lots of places host them, with planning permission. My concern is that this one has skipped that step, so the effects on the road, the neighbours and the village pub have not been considered. [Add how the change affects you.]
+I have nothing against weddings or holiday lets. Lots of places host them, with planning permission. My concern is that this one has not been through that process, so the effects on the road, the neighbours and the village pub have not been considered. [Add how the change affects you.]
 
 ### If an officer visits the site, are there any health and safety concerns they should know about?
 
-Please take care at the entrance on the double bend.
+[Write "None known", or describe any hazard you know of.]
 
 ### Why are you making this complaint?
 
-To ask for the same process everyone else has to follow. Please investigate and invite a planning application, so that residents can comment and the council can decide.
+To ask for the same process everyone else follows. Please invite a planning application, so that residents can comment and the council can decide.
 
 ### Details that may help an initial assessment
 
-No planning application for the site since 1996, according to the council's planning register. The owners' brochure offers exclusive use for groups of up to 24, with prices to December 2028.
+There has been no planning application for the site since 1996, according to the council's planning register. The owners' brochure offers exclusive use for groups of up to 24, with prices to December 2028.
 
-## Template 29: Here to stay
+## Template 29: The long term
+
+**For:** any
 
 ### Describe the change of use, and why you think it needs planning permission
 
-This is not a temporary arrangement. The Plough has been refitted as group accommodation and a party venue, with prices published to December 2028. I believe that is a permanent change of use, which needs planning permission. No application has been made.
+The Plough has had a complete refit and is marketed as group accommodation and a party venue, with prices published to December 2028. I believe that is a change of use which needs planning permission. No application has been made.
 
 ### Have you tried to resolve the matter yourself?
 
-No. Residents were told it would be done properly. I am asking the council.
+No.
 
 ### What harm is being caused to you or to the environment?
 
-A long-term events business on this site means years of event traffic on a blind bend and weekend noise, and the pub gone for good. [Say what worries you about the long term.]
+An events business on this site for years ahead would mean event traffic on a blind bend, weekend events next to homes, and no pub. [Say what worries you about the long term.]
 
 ### If an officer visits the site, are there any health and safety concerns they should know about?
 
-The entrance is on a double blind bend.
+[Write "None known", or describe any hazard you know of.]
 
 ### Why are you making this complaint?
 
-Because the owners are planning years ahead, the use should be assessed now, through a planning application, before it becomes established. Please investigate.
+Prices run to December 2028. I would like the use assessed now, through a planning application.
 
 ### Details that may help an initial assessment
 
-The brochure covers April 2027 to December 2028. The owners announced in September 2025 that The Plough would no longer be managed as a pub or restaurant. The building was refitted during 2026.
+The brochure covers April 2027 to December 2028. The owners announced in September 2025 that The Plough would no longer be managed as a pub or restaurant, and posted in October 2026 that it had had a complete refit.
 
 ## Template 30: The whole picture
+
+**For:** any
 
 ### Describe the change of use, and why you think it needs planning permission
 
@@ -815,20 +884,20 @@ The Plough was a pub until October 2024. The owners now market exclusive use of 
 
 ### Have you tried to resolve the matter yourself?
 
-No. I understand residents who met one of the owners were told he would do it by the book and take the community with him. No application has followed.
+No. I understand that one of the owners told residents he would do it by the book and take the community with him. No planning application has been made.
 
 ### What harm is being caused to you or to the environment?
 
-Event traffic at a double blind bend. Late nights in a quiet hamlet. And the loss of the only pub anyone here can walk to, with no footway, no lighting and no bus to the next nearest. [Add the part that affects you most, in your own words.]
+Event traffic at a double blind bend, possible late nights in a quiet hamlet, and the loss of the only pub anyone here can walk to. There is no footway, no lighting and no bus to the next nearest. [Add the part that affects you most, in your own words.]
 
 ### If an officer visits the site, are there any health and safety concerns they should know about?
 
-Please approach slowly. The access is on a double blind bend with poor visibility.
+[Write "None known", or describe any hazard you know of.]
 
 ### Why are you making this complaint?
 
-National policy HC6 and Local Plan Policy LP19 protect pubs. The highway, noise and loss of a community facility have not been assessed, because there has been no planning application. I would like the council to investigate and to require one.
+National policy HC6 and Local Plan Policy LP19 protect pubs. The highway safety, the noise and the loss of a community facility have not been assessed, because there has been no planning application. I would like the council to invite one.
 
 ### Details that may help an initial assessment
 
-Owners' Facebook post, 15 September 2025: "no longer be managed as a public house or restaurant". Brochure, April 2027 to December 2028: exclusive use for up to 24, hen and stag groups accepted, coaches welcome. Wedding reception, 27 June 2026. Asset of Community Value since 22 July 2026. Council case EN/26/0160.
+Owners' Facebook post, 15 September 2025: "no longer be managed as a public house or restaurant". Brochure, April 2027 to December 2028: exclusive use for up to 24, hen and stag groups accepted, coaches can be accommodated. Wedding reception, 27 June 2026. Asset of Community Value since 22 July 2026. Council case EN/26/0160.
