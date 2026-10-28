@@ -164,10 +164,10 @@ a:focus-visible, button:focus-visible, summary:focus-visible, .button:focus-visi
 .map-road { fill: none; stroke: var(--road); stroke-width: 11; stroke-linecap: round; stroke-linejoin: round; }
 .map-lane-casing { fill: none; stroke: #8b8170; stroke-width: 9; stroke-linecap: round; }
 .map-lane { fill: none; stroke: #fff; stroke-width: 6; stroke-linecap: round; }
-.map-label { font-family: var(--serif); font-style: italic; font-size: 15px; fill: #2c2c2c; }
-.map-label-strong { font-family: var(--serif); font-weight: 700; font-size: 17px; fill: var(--green-dark); }
-.map-note { font-family: var(--sans); font-size: 13px; fill: var(--rose); font-weight: 700; }
-.map-dist { font-family: var(--sans); font-size: 13px; fill: #2c2c2c; }
+.map-label { font-family: var(--serif); font-style: italic; font-size: 17px; fill: #2c2c2c; }
+.map-label-strong { font-family: var(--serif); font-weight: 700; font-size: 20px; fill: var(--green-dark); }
+.map-note { font-family: var(--sans); font-size: 15px; fill: var(--rose); font-weight: 700; }
+.map-dist { font-family: var(--sans); font-size: 15px; fill: #2c2c2c; }
 @media (prefers-reduced-motion: no-preference) {
   .map-draw { stroke-dasharray: 1200; stroke-dashoffset: 1200; animation: draw 2.2s ease-out 0.2s forwards; }
   .map-pop { opacity: 0; animation: pop 0.5s ease-out 2.1s forwards; }
@@ -243,7 +243,7 @@ figcaption { font-size: 0.95rem; color: var(--ink-soft); margin-top: 0.5rem; lin
   border-radius: 50%; background: #fff; border: 3px solid var(--green);
 }
 .timeline > li.tl-now::before { background: var(--green); }
-.tl-grid { display: grid; gap: 0 var(--space-4); }
+.tl-grid { display: grid; gap: 0 var(--space-4); align-items: start; }
 @media (min-width: 62rem) { .tl-grid { grid-template-columns: minmax(0, 40rem) minmax(0, 1fr); } .tl-grid .our-view { margin-top: 0; } }
 .tl-date { font-family: var(--serif); font-style: italic; color: var(--rose); font-size: 1.15rem; display: block; margin-bottom: 0.15rem; }
 .timeline h3 { margin: 0 0 0.5rem; font-size: 1.4rem; }
